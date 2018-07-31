@@ -7,3 +7,6 @@ Recuerden que deben de reconstruir los módulos de node con el comando
 ```
 npm install
 ```
+## Para verlo en producción sólo tienes que ir al siguiente enlace
+
+[1]: https://atender-tickets.herokuapp.com/
