@@ -9,4 +9,4 @@ npm install
 ```
 ## Para verlo en producción sólo tienes que ir al siguiente enlace
 
-[1]: https://atender-tickets.herokuapp.com/
+[App tickets](https://atender-tickets.herokuapp.com)
